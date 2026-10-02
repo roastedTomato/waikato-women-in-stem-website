@@ -52,7 +52,7 @@ Captured at a 390px viewport width, illustrating the layout at a phone-sized bre
 
 | Home | Events | About | Sponsors |
 | --- | --- | --- | --- |
-| ![Home mobile](screenshots/home-mobile.jpg) | ![Events mobile](screenshots/events-mobile.jpg) | ![About mobile](screenshots/about-mobile-complete.jpg) | ![Sponsors mobile](screenshots/sponsors-mobile.jpg) |
+| ![Home mobile](screenshots/home-mobile.jpg) | ![Events mobile](screenshots/events-mobile.jpg) | ![About mobile](screenshots/about-mobile-updated.jpg) | ![Sponsors mobile](screenshots/sponsors-mobile.jpg) |
 
 ## Scope and preservation
 
