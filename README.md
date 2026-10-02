@@ -54,8 +54,8 @@ Captured at a 390px viewport width, illustrating the layout at a phone-sized bre
 | --- | --- | --- | --- |
 | ![Home mobile](screenshots/home-mobile.jpg) | ![Events mobile](screenshots/events-mobile.jpg) | ![About mobile](screenshots/about-mobile-updated.jpg) | ![Sponsors mobile](screenshots/sponsors-mobile.jpg) |
 
-## Scope and preservation
+## Project Notes
 
-Screenshots were captured on 2 October 2026. They preserve the visible design if the original hosting link changes or becomes unavailable. The requirements document was described by the author; it is not included or independently checked in this repository. No contact, registration or sponsorship forms were submitted during capture, so end-to-end form delivery has not been verified.
-
-Rocketspark provides the website platform and hosting. This repository contains the portfolio case study, screenshots and selected custom HTML/CSS fragments. It does not include the complete Rocketspark-generated website source. Organisation names and logos shown belong to their respective owners.
+- Independently designed and built with Rocketspark, with selected custom HTML/CSS included in this repository.
+- Website imagery was generated with AI. Organisation names and logos belong to their respective owners.
+- Screenshots preserve the project as captured on 2 October 2026; the live website may continue to change.
