@@ -39,7 +39,9 @@ These are embeddable fragments: paste each into an HTML/code block in Rocketspar
 ![Events](screenshots/events-desktop.jpg)
 
 ### About
-![About](screenshots/about-desktop.jpg)
+
+Includes the fully loaded committee background and all avatar groups.
+![About](screenshots/about-desktop-complete.jpg)
 
 ### Sponsors
 ![Sponsors](screenshots/sponsors-desktop.jpg)
@@ -50,7 +52,7 @@ Captured at a 390px viewport width, illustrating the layout at a phone-sized bre
 
 | Home | Events | About | Sponsors |
 | --- | --- | --- | --- |
-| ![Home mobile](screenshots/home-mobile.jpg) | ![Events mobile](screenshots/events-mobile.jpg) | ![About mobile](screenshots/about-mobile.jpg) | ![Sponsors mobile](screenshots/sponsors-mobile.jpg) |
+| ![Home mobile](screenshots/home-mobile.jpg) | ![Events mobile](screenshots/events-mobile.jpg) | ![About mobile](screenshots/about-mobile-complete.jpg) | ![Sponsors mobile](screenshots/sponsors-mobile.jpg) |
 
 ## Scope and preservation
 
